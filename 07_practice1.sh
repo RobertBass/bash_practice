@@ -2,9 +2,7 @@
 # Programa interactivo
 # Autor: Roberto Bravo
 
-echo "Cual es tu nombre? "
-read nombre
-echo "Cual es tu edad? "
-read edad
+read -p "Cual es tu nombre? " nombre
+read -p "Cual es tu edad? " edad
 
 echo "Listo, tu nombre es $nombre y tienes $edad anios"
