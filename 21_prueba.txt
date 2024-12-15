@@ -1,0 +1,2 @@
+Valores escritos con el comando echo
+Valor de prueba como argumento
